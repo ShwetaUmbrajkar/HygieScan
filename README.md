@@ -1,16 +1,7 @@
-# hygie_scan
+=======
+# HygieScan
+AI-powered hygiene assessment app for street food vendors  
+Theme: Artificial Intelligence & Machine Learning (HackOrbit 2025 Finalist)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project uses computer vision and crowdsourced data to score street food stalls based on hygiene indicators such as cleanliness, glove usage, and utensil condition.
+>>>>>>> f682a8dc8b2b5ec83921a495b863a8daaeb41f3d
